@@ -1,0 +1,638 @@
+
+
+
+
+
+@media screen and (max-width: 1366px) {
+
+a.pain-but {
+    width: 100%;
+}
+
+}
+
+
+/* стили для md-устройств */
+@media screen and (max-width: 1200px) {
+
+.dec-left {
+    width: 26%;
+}
+
+.order-left.is {
+    margin-right: 20px;
+}
+
+
+
+.order-wrap {
+    justify-content: center;
+}
+
+span.acord-tits {
+    margin-left: 30px;
+}
+
+.acord-text {
+}
+
+.dev-tit {
+    margin-right: 45px;
+}
+
+.dev-tit.ist {
+    margin-right: 58px;
+}
+
+}
+
+@media screen and (max-width: 1050px) {
+
+.dec-left {
+    width: 30%;
+}
+
+.dec-right {
+    width: 65%;
+}
+
+.order-left.is {
+    width: 55%;
+    margin-right: 15px;
+}
+
+.order-right {
+    width: 42%;
+}
+
+.acord-text {
+}
+
+}
+
+
+/* стили для sm-устройств */
+@media screen and (max-width: 1024px) {
+
+.dev-tit.ist {
+    margin-right: 58px;
+    width: 28%;
+}
+
+.dev-tit {
+    margin-right: 34px;
+    width: 34%;
+}
+
+
+
+.order-prise-bl.is2 {
+    display: flex;
+}
+
+.order-right.is {
+    width: 360px;
+}
+
+.pain-mob .order-prise-bl {
+    display: flex;
+}
+
+a.form-but {
+    width: 45%;
+}
+
+.pain-mob input[type="text"]{
+    width: 45%;
+}
+
+.madal-form {
+    display:flex;
+}
+
+.acord-imgs-tit {
+    font-size: 14px;
+}
+
+.acord-prise {
+    font-size: 16px;
+}
+
+.acord-imgs-text {
+    font-size: 10px;
+}
+
+
+p.text span {
+    margin-right: 0px;
+    margin-left: 30px;
+}
+
+.order-right {
+    width: 260px;
+    padding: 15px;
+}
+
+.shop-wrap {
+    display: none;
+}
+
+.order-prise-wrap.is {
+    display: none;
+}
+
+form.madal-form {
+    display: none;
+}
+
+.order-prise-bl {
+    display: none;
+}
+
+.total-order.is {
+    display: none;
+}
+
+.order-img-text-is.is:before {
+    display: none;
+}
+
+.order-left.is {
+    width: 65%;
+}
+
+.accordions {
+    width: 100%;
+    padding: 15px 20px;
+}
+
+a.panel-date-1 {
+    width: 100%;
+}
+
+a.panel-date-2 {
+    width: 100%;
+}
+
+a.panel-date-3 {
+    width: 100%;
+}
+
+.counter-box textarea.counte-input {
+    width: auto;
+}
+
+form.prise-form {
+    width: 100%;
+}
+
+a.radio-but {
+    width: 100%;
+}
+
+.panel-is-2 {
+    width: 45%;
+}
+
+form.order-forms-is.is {
+    justify-content: space-between;
+}
+
+  
+}
+
+/* стили для sm-устройств */
+@media screen and (max-width: 992px) {
+
+
+
+  
+}
+
+
+/* Ipad*/ 
+@media screen and (max-width: 888px) {
+    .order-left {
+        width: 50%;
+        margin-right: 20px;
+    }
+
+    .order-right.is {
+        width: 50%;
+    }
+
+    .container {
+        padding: 0 32px;
+    }
+
+
+}
+
+
+/* Ipad mini*/ 
+@media screen and (max-width: 745px) {
+
+.accordion-mob-tit {
+    margin-bottom: 40px;
+}
+
+.dev-text {
+    margin-bottom: 16px;
+}
+
+.dev-wrpa.is {
+    margin-bottom: 24px;
+}
+
+button#modul-44 {
+    margin-top: 32px;
+}
+
+.accordion-mob {
+    display:block;
+}
+
+.accordion {
+    display: none;
+}
+
+.modal-is {
+    width: 90%;
+}
+
+.order-left.is {
+    width: 100%;
+}
+
+.order-right {
+    width: 100%;
+}
+
+.order-wrap {
+    flex-wrap: wrap;
+}
+
+.order-text p {
+    text-align: left;
+}
+
+.order-left {
+    width: 100%;
+}
+
+.order-right.is {
+    width: 100%;
+}
+
+.order-wrap {
+    flex-wrap: wrap;
+    padding-top: 36px;
+}
+
+.order-text {
+    text-align-last: left;
+}
+
+
+
+}
+
+/* Galaxy S8+*/ 
+@media screen and (max-width: 480px) {
+
+    .accordion-mob-tit {
+        justify-content: center;
+        padding: 0;
+    }
+
+    .close {
+        display: none;
+    }
+
+    .container {
+        padding: 0 20px;
+    }
+
+    .modal-is {
+        position: relative;
+        margin: 0 auto;
+        width: 600px;
+        height: 100vh;
+        background: #fff;
+        border-radius: 10px;
+        padding: 40px 20px 40px 20px;
+    }
+
+    .modal-is {
+        width: 100%;
+        border-radius: 0;
+    }
+
+    .modul-2 {
+        padding: 0;
+        background: #fff;
+    }
+
+    .ren-addres-but {
+        border-radius: 6px;
+        background: #343434;
+        width: 150px;
+        padding: 12px 10px;
+        color: #FFF;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        display: flex;
+        justify-content: center;
+        font-family: 'Lucida Sans Unicode';
+    }
+
+    .modul-1 {
+        padding: 0;
+    }
+
+    .modul-3 {
+        position: fixed;
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        overflow: hidden;
+        overflow-y: auto;
+        display: flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+        z-index: 99999;
+        display: none;
+        padding: 0px 0;
+        background: #00000073;
+    }
+
+.ren-wrap {
+    flex-wrap: wrap;
+}
+
+.ren-tit {
+    margin-bottom: 20px;
+}
+
+.ren-but {
+    flex-wrap: wrap;
+}
+
+.ren-but a {
+    margin-bottom: 10px;
+}
+
+.forms-ist {
+        width: 100%;
+}
+
+.order-left.is {
+
+        margin-right: 0px;
+}
+
+.counter-box textarea.counte-input {
+    width: 100%;
+}
+
+h1.text-left.is.is3 {
+    display: none;
+}
+
+h1.text-left.is.is2 span {
+    margin-bottom: 0px;
+}
+
+h1.text-left.is.is2 {
+    margin-top: 25px;
+    margin-left: 27px;
+    margin-bottom: -10px;
+    display: block;
+}
+
+.about-page2 {
+    margin: 24px 0 0 0 !important;
+    padding: 0 0 50px 0;
+}
+
+.order-tit {
+    margin-top: 36px;
+}
+
+.modul-4 {
+    padding: 0;
+}
+
+section.about-page {
+    background: #FCFBFA;
+}
+
+.pain-bl {
+    font-size: 14px;
+}
+
+.order-tit {
+    font-size: 16px;
+    margin-bottom: 16px;
+    text-align: left !important;
+}
+
+.order-text {
+    font-size: 12px;
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+.order-left {
+    margin-right: 0;
+}
+
+.order-tit-is {
+    font-size: 16px;
+    margin-bottom: 16px;
+    text-align: left;
+}
+
+.order-right-main-tit {
+    font-size: 20px;
+}
+
+.order-right-tit {
+    font-size: 10px;
+}
+
+.order-text-is {
+    font-size: 10px;
+    margin-bottom: 24px;
+}
+
+.order-img-text-is {
+    font-size: 12px;
+}
+
+.table-prise-tit {
+    font-size: 14px;
+}
+
+.table-prise-is2 {
+    font-size: 14px;
+}
+
+.table-prise-is {
+    font-size: 14px;
+}
+
+.total-tit {
+    font-size: 16px;
+}
+
+.total-prise {
+    font-size: 16px;
+}
+
+.order-prise-bl.is2 {
+}
+
+.total-order {
+    margin-top: 24px;
+}
+
+a.pain-but {
+    padding: 15px;
+}
+
+.dev-wrpa {
+    flex-wrap: wrap;
+}
+
+.dev-tit {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+.dev-tit br {
+    display: none;
+}
+
+.dev-text-bl {
+    margin-left: 0;
+}
+
+.counter-box {
+    margin-left: 0;
+    width: 100%;
+}
+
+.counter-box textarea.counte-input {
+    width: 100%;
+}
+
+.acord-text {
+    margin-left: 0;
+}
+
+p.text span {
+    margin-left: 0;
+}
+
+p.text span.acord-tits {
+    display: flex;
+    margin-left: 25px;
+}
+
+.dev-tit.is2 {
+    width: 100%;
+}
+
+form.prise-form {
+    margin-left: 0;
+}
+
+.accordion .text {
+    font-size: 16px;
+}
+
+.city-is {
+    width: 100%;
+}
+
+.city-wrap {
+    flex-wrap: wrap;
+    padding: 0 0 0 20px;
+}
+
+form.order-forms-modal input[type="text"] {
+    width: 100%;
+}
+
+.dev-text-bl {
+    margin-left: 0;
+}
+
+p.text {
+    justify-content: space-between;
+}
+
+.counter-box {
+    margin-left: 0;
+    width: 100%;
+}
+
+.forms-order {
+    margin-left: 0;
+}
+
+p.text span {
+    display: none;
+}
+
+p.text  span.acord-tits {
+    display: block;
+    order: 2;
+}
+
+p.text a {
+    order: 1;
+    transform: rotate(90deg);
+    margin-left: 0;
+}
+
+.acord-text {
+    display: none;
+}
+
+a.panel-is {
+    width: 64px;
+    height: 64px;
+}
+  
+}
+
+/* Galaxy*/ 
+@media screen and (max-width: 415px) {
+  
+}
+
+
+/* Iphone 6.7.8 */ 
+@media screen and (max-width: 375px) {
+
+}
+
+/* Iphone 5.5SE */ 
+@media screen and (max-width: 320px) {
+
+.acord-imgs-tit {
+    margin-right: 0;
+}
+
+.acord-prise {
+    width: 25%;
+}
+
+}
